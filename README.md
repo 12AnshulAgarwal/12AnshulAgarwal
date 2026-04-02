@@ -1,6 +1,5 @@
 [![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)](https://12AnshulAgarwal.io)
 <h1 align="center">Hi 👋, I'm Anshul Agarwal</h1>
-<h3 align="center">Talk is {CHEAP} Show me the CODE</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=12anshulagarwal&label=Profile%20views&color=0e75b6&style=flat" alt="12anshulagarwal" /> </p>
